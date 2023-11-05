@@ -1,6 +1,7 @@
 # detona-ralph
 
-Projeto desenvolvido para aprendizado via digitalinnovationone
+- Desenvolvido como projeto para o bootcamp: Potência Tech Ifood - Desenvolvimento de Jogos.
+- plataforma: https://dio.me
 
 ## Implementação extra:
 - Função de ao clicar na caixa errada a pontuação é reduzida e o som emitido é de FAIL.
